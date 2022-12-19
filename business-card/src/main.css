@@ -1,4 +1,6 @@
 * {
   box-sizing: border-box;
   background-color: #23252c;
+  max-width: 550px;
+  font-family: "Inter", sans-serif;
 }
