@@ -2,6 +2,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 0 auto;
 }
 
 .headshot {
@@ -23,11 +24,12 @@ h1 {
   color: #ffffff;
   margin-top: 1rem;
   margin-bottom: 0;
+  font-size: 25px;
 }
 
-p {
+.fendDev {
   margin-top: 0.3rem;
-  font-size: 0.8rem;
+  font-size: 12.8px;
   color: #f3bf99;
   margin-bottom: 0;
 }
@@ -35,17 +37,18 @@ p {
 a {
   margin-top: 0.4rem;
   color: #f5f5f5;
-  font-size: 0.6rem;
+  font-size: 10.24px;
   text-decoration: none;
 }
 
 button {
   margin-top: 1rem;
-  width: 100px;
+  width: 115px;
   height: 34px;
   text-align: center;
   font-size: 14px;
   border-radius: 6px;
+  cursor: pointer;
 }
 
 .emailBtn {
@@ -54,6 +57,7 @@ button {
   color: #374151;
   border: 1px solid #d1d5db;
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  margin-left: 35px;
 }
 
 .linkedinBtn {
@@ -61,6 +65,7 @@ button {
   color: white;
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
   border: none;
+  margin-right: 35px;
 }
 
 .email,
@@ -71,6 +76,7 @@ button {
 
 .btnContainer {
   display: flex;
-  justify-content: center;
+  width: 317px;
+  justify-content: space-between;
   align-items: center;
 }

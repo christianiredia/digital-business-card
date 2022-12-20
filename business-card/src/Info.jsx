@@ -14,7 +14,7 @@ const Info = () => {
       />
       <>
         <h1>Christian Iredia</h1>
-        <p>Frontend Developer</p>
+        <p className="fendDev">Frontend Developer</p>
         <a href="https://github.com/christianiredia">christianiredia.website</a>
       </>
 
