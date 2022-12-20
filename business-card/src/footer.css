@@ -1,0 +1,19 @@
+footer {
+  max-width: 317px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+
+footer img {
+  width: 25px;
+}
+
+.linkedinLogo {
+  margin-left: 73px;
+}
+
+.twitterLogo {
+  margin-right: 73px;
+}

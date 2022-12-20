@@ -8,6 +8,11 @@ h3 {
   color: #f5f5f5;
   font-size: 1rem;
   margin-bottom: 0;
+  font-weight: 700;
+}
+
+.about {
+  margin-top: 33px;
 }
 
 p {
